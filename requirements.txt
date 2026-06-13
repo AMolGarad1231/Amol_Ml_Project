@@ -1,0 +1,6 @@
+## All the packages required for this project are listed in requirements.txt file
+pandas
+numpy  
+seaborn
+matplotlib
+-e .
